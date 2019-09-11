@@ -4,6 +4,10 @@
 
 > 本模板在对比过很多在线文档后，觉得[Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap/blob/master/docs/database/redis.md)的功能很不错，就借用`Node.js技术栈`文档制作了本模板
 
+欢迎fork和使用 预览[技术文档模板](http://daskj.gitee.io/docs-template)
+
+使用**火狐浏览器**浏览效果更佳
+
 ```
 模板来源:
 
